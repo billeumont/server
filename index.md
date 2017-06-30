@@ -1,12 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Billeumont Coding Club
 
-You can use the [editor on GitHub](https://github.com/billeumont/server/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Server
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is the main server for Billeumont. It currently houses the code for Evailynn.
 
 ```markdown
 Syntax highlighted code block
